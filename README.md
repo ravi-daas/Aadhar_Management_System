@@ -1,1 +1,1 @@
-# All files related to the project of EWA is uploaded here, Thanks!!
+# All files related to the project of EWA(Enterprise Web Application) is uploaded here, Thanks!!
